@@ -1,0 +1,161 @@
+{
+  "processed_files": {
+    "52006afb-996a-4651-a814-572a57e7ddc1:03a3e19e-0393-409f-b923-1ce4d08a5ff3": {
+      "filename": "mjolby_261005082505",
+      "remote_path": "/Shared/MJOLBY/2026-10-05/mjolby_261005082505",
+      "processed_at": "2026-10-05T09:08:01.192459+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\mjolby\\2026-10-05\\mjolby_261005082505.parquet"
+    },
+    "539c7f04-b755-4bfd-b0fa-ac69eedb0940:a37ff3f0-8e18-46a9-b43d-7f96c60f3051": {
+      "filename": "mjolby_261005084006",
+      "remote_path": "/Shared/MJOLBY/2026-10-05/mjolby_261005084006",
+      "processed_at": "2026-10-05T09:08:02.344013+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\mjolby\\2026-10-05\\mjolby_261005084006.parquet"
+    },
+    "65d8ceb5-9f88-4309-bcd5-da579a56d531:078dc404-106e-437b-9210-411bacc7dbab": {
+      "filename": "mjolby_261005085505",
+      "remote_path": "/Shared/MJOLBY/2026-10-05/mjolby_261005085505",
+      "processed_at": "2026-10-05T09:08:03.285260+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\mjolby\\2026-10-05\\mjolby_261005085505.parquet"
+    },
+    "61dc4b4c-d408-429e-9778-965354eeff50:4f8de99f-300f-4a51-8a9b-43e5db30524e": {
+      "filename": "mjolby_261005091012",
+      "remote_path": "/Shared/MJOLBY/2026-10-05/mjolby_261005091012",
+      "processed_at": "2026-10-05T09:12:17.545100+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\mjolby\\2026-10-05\\mjolby_261005091012.parquet"
+    },
+    "1560a033-fa6c-49fb-908c-5599516a88d2:94eeeb91-dfc0-484c-a2ec-272786cde348": {
+      "filename": "mjolby_261005092505",
+      "remote_path": "/Shared/MJOLBY/2026-10-05/mjolby_261005092505",
+      "processed_at": "2026-10-05T09:27:17.384227+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\mjolby\\2026-10-05\\mjolby_261005092505.parquet"
+    },
+    "45f1bce1-131f-4909-b1ca-79446cf4864c:c247b465-4046-4048-abe7-a28793e8f292": {
+      "filename": "mjolby_261005094006",
+      "remote_path": "/Shared/MJOLBY/2026-10-05/mjolby_261005094006",
+      "processed_at": "2026-10-05T09:42:16.376462+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\mjolby\\2026-10-05\\mjolby_261005094006.parquet"
+    },
+    "9d231b69-86f3-451c-aa46-1ef76fc726c8:ca47a180-90d1-4386-b1ef-6cb229070bde": {
+      "filename": "mjolby_261005095507",
+      "remote_path": "/Shared/MJOLBY/2026-10-05/mjolby_261005095507",
+      "processed_at": "2026-10-05T09:57:17.564795+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\mjolby\\2026-10-05\\mjolby_261005095507.parquet"
+    },
+    "5ec443b7-caa7-4fae-b45d-56d134d561e8:b55a62b6-044c-4a14-b7a5-40af7f626403": {
+      "filename": "mjolby_261005101014",
+      "remote_path": "/Shared/MJOLBY/2026-10-05/mjolby_261005101014",
+      "processed_at": "2026-10-05T10:12:16.279017+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\mjolby\\2026-10-05\\mjolby_261005101014.parquet"
+    },
+    "a6fa1855-2a0c-4d9f-88ed-dae8dbcf4b6c:3e0bb9ad-e14f-493c-bffc-a83da0f192f2": {
+      "filename": "mjolby_261005102505",
+      "remote_path": "/Shared/MJOLBY/2026-10-05/mjolby_261005102505",
+      "processed_at": "2026-10-05T10:27:15.998909+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\mjolby\\2026-10-05\\mjolby_261005102505.parquet"
+    },
+    "e3a91d5b-065e-4bf5-86f4-00fa0e943b51:cab96fea-0126-468e-9581-ea8bb2519ee2": {
+      "filename": "mjolby_261005104006",
+      "remote_path": "/Shared/MJOLBY/2026-10-05/mjolby_261005104006",
+      "processed_at": "2026-10-05T10:42:15.433599+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\mjolby\\2026-10-05\\mjolby_261005104006.parquet"
+    },
+    "e3aee523-1ee4-4b18-8b87-126ac5c04f87:09b37181-ff1c-4e2f-aa03-8281389b823b": {
+      "filename": "mjolby_261005105506",
+      "remote_path": "/Shared/MJOLBY/2026-10-05/mjolby_261005105506",
+      "processed_at": "2026-10-05T10:57:16.693864+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\mjolby\\2026-10-05\\mjolby_261005105506.parquet"
+    },
+    "44e74960-7d8c-4a12-997e-853cfff0a98b:cbdeb548-ee2e-46de-8850-519019b6f4c4": {
+      "filename": "mjolby_261005111008",
+      "remote_path": "/Shared/MJOLBY/2026-10-05/mjolby_261005111008",
+      "processed_at": "2026-10-05T11:12:17.078403+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\mjolby\\2026-10-05\\mjolby_261005111008.parquet"
+    },
+    "7ca75b2e-ab07-4419-8b36-0af227ed4753:97030e35-a336-4b61-8126-1183ed9cec8e": {
+      "filename": "mjolby_261005112505",
+      "remote_path": "/Shared/MJOLBY/2026-10-05/mjolby_261005112505",
+      "processed_at": "2026-10-05T11:27:21.984071+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\mjolby\\2026-10-05\\mjolby_261005112505.parquet"
+    },
+    "80d8cd22-a7c9-44b3-88ef-404e22fa2e92:53bd7d60-1e56-4d42-bf99-998d4278d102": {
+      "filename": "mjolby_261005114006",
+      "remote_path": "/Shared/MJOLBY/2026-10-05/mjolby_261005114006",
+      "processed_at": "2026-10-05T11:42:16.538451+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\mjolby\\2026-10-05\\mjolby_261005114006.parquet"
+    },
+    "df323dae-47f8-4f25-8a3a-96b360b632fb:b0cbd6e2-aade-438c-8962-288b259773d8": {
+      "filename": "mjolby_261005115506",
+      "remote_path": "/Shared/MJOLBY/2026-10-05/mjolby_261005115506",
+      "processed_at": "2026-10-05T11:57:15.962914+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\mjolby\\2026-10-05\\mjolby_261005115506.parquet"
+    },
+    "e76c6e5c-6111-40a2-9bf3-1b405de9543f:bff34048-719d-44c7-9ad7-69f2677060fd": {
+      "filename": "mjolby_261005121007",
+      "remote_path": "/Shared/MJOLBY/2026-10-05/mjolby_261005121007",
+      "processed_at": "2026-10-05T12:12:16.957456+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\mjolby\\2026-10-05\\mjolby_261005121007.parquet"
+    },
+    "33967ce8-cac9-4c70-81c8-172f70bffca2:332bc48c-496a-4311-9661-7206cffb42e9": {
+      "filename": "mjolby_261005122505",
+      "remote_path": "/Shared/MJOLBY/2026-10-05/mjolby_261005122505",
+      "processed_at": "2026-10-05T12:27:15.767147+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\mjolby\\2026-10-05\\mjolby_261005122505.parquet"
+    },
+    "d6773161-a70b-45bd-ab40-e8be1423939c:7bbda058-f613-4ee5-8fc9-fe6bdd0d436c": {
+      "filename": "mjolby_261005124006",
+      "remote_path": "/Shared/MJOLBY/2026-10-05/mjolby_261005124006",
+      "processed_at": "2026-10-05T12:42:16.002104+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\mjolby\\2026-10-05\\mjolby_261005124006.parquet"
+    },
+    "6cc32af0-5c1f-4b71-ad9c-cc2813f3334c:0903aa8a-e9d2-4755-8e8a-2f60586a68ab": {
+      "filename": "mjolby_261005125507",
+      "remote_path": "/Shared/MJOLBY/2026-10-05/mjolby_261005125507",
+      "processed_at": "2026-10-05T12:57:15.679538+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\mjolby\\2026-10-05\\mjolby_261005125507.parquet"
+    },
+    "1786c9d2-cb80-4042-9e45-820dda9bf1c2:ed08a89e-86e5-4e96-9766-a25ac46b5c10": {
+      "filename": "mjolby_261005131014",
+      "remote_path": "/Shared/MJOLBY/2026-10-05/mjolby_261005131014",
+      "processed_at": "2026-10-05T13:12:17.549708+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\mjolby\\2026-10-05\\mjolby_261005131014.parquet"
+    },
+    "ca4f4ecb-d590-4846-b87d-5e08da13fcf0:02d065b2-6786-4a0c-bfbc-d93987074df5": {
+      "filename": "mjolby_261005132505",
+      "remote_path": "/Shared/MJOLBY/2026-10-05/mjolby_261005132505",
+      "processed_at": "2026-10-05T13:27:16.616546+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\mjolby\\2026-10-05\\mjolby_261005132505.parquet"
+    },
+    "0b6443c6-09c7-43ee-a1f2-a7f816db0d34:f67b8953-a08a-4fbc-977a-392ec75f22b3": {
+      "filename": "mjolby_261005134005",
+      "remote_path": "/Shared/MJOLBY/2026-10-05/mjolby_261005134005",
+      "processed_at": "2026-10-05T13:43:21.710569+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\mjolby\\2026-10-05\\mjolby_261005134005.parquet"
+    },
+    "89a431a4-c55d-4201-84c6-0186622d710f:b6f7dbb3-9070-4a78-89dd-24e025c4349a": {
+      "filename": "mjolby_261005135505",
+      "remote_path": "/Shared/MJOLBY/2026-10-05/mjolby_261005135505",
+      "processed_at": "2026-10-05T13:57:28.283753+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\mjolby\\2026-10-05\\mjolby_261005135505.parquet"
+    },
+    "ce9d4f37-8f1c-4abc-be13-9df5a1b06a51:5900e7a5-947d-45ba-b382-2a101fd43b53": {
+      "filename": "mjolby_261005141007",
+      "remote_path": "/Shared/MJOLBY/2026-10-05/mjolby_261005141007",
+      "processed_at": "2026-10-05T14:12:36.624011+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\mjolby\\2026-10-05\\mjolby_261005141007.parquet"
+    },
+    "6246000b-538f-4cd1-aedb-8632ab6b0c18:2382611e-8310-4f8f-80b5-dc14e617989a": {
+      "filename": "mjolby_261005142504",
+      "remote_path": "/Shared/MJOLBY/2026-10-05/mjolby_261005142504",
+      "processed_at": "2026-10-05T14:50:32.190462+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\mjolby\\2026-10-05\\mjolby_261005142504.parquet"
+    },
+    "c8a2cca8-c948-4af3-be1e-e3768e3e8dfd:f0abfbfa-62a3-4280-a169-4aa61aa236f7": {
+      "filename": "mjolby_261005144006",
+      "remote_path": "/Shared/MJOLBY/2026-10-05/mjolby_261005144006",
+      "processed_at": "2026-10-05T14:50:34.826927+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\mjolby\\2026-10-05\\mjolby_261005144006.parquet"
+    }
+  },
+  "baseline_before": "2026-10-05T10:25:00+02:00"
+}

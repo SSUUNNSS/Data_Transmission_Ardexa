@@ -1,0 +1,436 @@
+{
+  "processed_batches": {
+    "2026-08-01": {
+      "status": "completed",
+      "completed_at": "2026-09-04T15:43:15.203710+00:00",
+      "send_mode": "history_data",
+      "parquet_files": 1,
+      "records_read": 167599,
+      "messages_built": 89590,
+      "messages_published": 89590,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "2026-08-02": {
+      "status": "completed",
+      "completed_at": "2026-09-04T16:03:02.842855+00:00",
+      "send_mode": "history_data",
+      "parquet_files": 1,
+      "records_read": 174463,
+      "messages_built": 94666,
+      "messages_published": 94666,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "2026-08-03": {
+      "status": "completed",
+      "completed_at": "2026-09-04T16:24:14.168832+00:00",
+      "send_mode": "history_data",
+      "parquet_files": 1,
+      "records_read": 182153,
+      "messages_built": 96339,
+      "messages_published": 96339,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "2026-08-04": {
+      "status": "completed",
+      "completed_at": "2026-09-04T16:42:59.704155+00:00",
+      "send_mode": "history_data",
+      "parquet_files": 1,
+      "records_read": 156355,
+      "messages_built": 83122,
+      "messages_published": 83122,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "2026-08-05": {
+      "status": "completed",
+      "completed_at": "2026-09-04T17:04:25.745991+00:00",
+      "send_mode": "history_data",
+      "parquet_files": 1,
+      "records_read": 181732,
+      "messages_built": 96246,
+      "messages_published": 96246,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "2026-08-06": {
+      "status": "completed",
+      "completed_at": "2026-09-04T17:22:41.346565+00:00",
+      "send_mode": "history_data",
+      "parquet_files": 1,
+      "records_read": 150310,
+      "messages_built": 81824,
+      "messages_published": 81824,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "2026-08-07": {
+      "status": "completed",
+      "completed_at": "2026-09-04T17:38:52.593765+00:00",
+      "send_mode": "history_data",
+      "parquet_files": 1,
+      "records_read": 138010,
+      "messages_built": 74215,
+      "messages_published": 74215,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "2026-08-08": {
+      "status": "completed",
+      "completed_at": "2026-09-04T17:50:25.318455+00:00",
+      "send_mode": "history_data",
+      "parquet_files": 1,
+      "records_read": 111820,
+      "messages_built": 57837,
+      "messages_published": 57837,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "2026-08-09": {
+      "status": "completed",
+      "completed_at": "2026-09-04T18:04:52.357907+00:00",
+      "send_mode": "history_data",
+      "parquet_files": 1,
+      "records_read": 136607,
+      "messages_built": 70814,
+      "messages_published": 70814,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "2026-08-10": {
+      "status": "completed",
+      "completed_at": "2026-09-04T18:18:11.057112+00:00",
+      "send_mode": "history_data",
+      "parquet_files": 1,
+      "records_read": 125541,
+      "messages_built": 65675,
+      "messages_published": 65675,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    }
+  },
+  "processed_files": {
+    "2026-09-08/kna1_lc_test_2026-09-10.parquet": {
+      "status": "completed",
+      "completed_at": "2026-09-11T09:56:40.145075+00:00",
+      "send_mode": "history_data",
+      "records_read": 9192,
+      "messages_built": 4596,
+      "messages_published": 4596,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "2026-08-01/2026-08-01.parquet": {
+      "status": "completed",
+      "completed_at": "2026-09-14T10:32:25.082467+00:00",
+      "send_mode": "history_data",
+      "records_read": 167599,
+      "messages_built": 89590,
+      "messages_published": 89590,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "2026-08-02/2026-08-02.parquet": {
+      "status": "completed",
+      "completed_at": "2026-09-14T10:58:45.917663+00:00",
+      "send_mode": "history_data",
+      "records_read": 174463,
+      "messages_built": 94666,
+      "messages_published": 94666,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "2026-08-03/2026-08-03.parquet": {
+      "status": "completed",
+      "completed_at": "2026-09-14T11:21:46.005698+00:00",
+      "send_mode": "history_data",
+      "records_read": 182153,
+      "messages_built": 96339,
+      "messages_published": 96339,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "2026-08-04/2026-08-04.parquet": {
+      "status": "completed",
+      "completed_at": "2026-09-14T11:39:24.208698+00:00",
+      "send_mode": "history_data",
+      "records_read": 156355,
+      "messages_built": 83122,
+      "messages_published": 83122,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "2026-08-05/2026-08-05.parquet": {
+      "status": "completed",
+      "completed_at": "2026-09-14T12:06:17.777817+00:00",
+      "send_mode": "history_data",
+      "records_read": 181732,
+      "messages_built": 96246,
+      "messages_published": 96246,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/vasteras_261005082508.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T09:08:51.644878+00:00",
+      "send_mode": "normal",
+      "records_read": 5145,
+      "messages_built": 3284,
+      "messages_published": 3284,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/vasteras_261005084010.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T09:09:57.902823+00:00",
+      "send_mode": "normal",
+      "records_read": 5195,
+      "messages_built": 3343,
+      "messages_published": 3343,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/vasteras_261005085510.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T09:11:12.707131+00:00",
+      "send_mode": "normal",
+      "records_read": 5970,
+      "messages_built": 3674,
+      "messages_published": 3674,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/vasteras_261005091016.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T09:13:22.060285+00:00",
+      "send_mode": "normal",
+      "records_read": 5105,
+      "messages_built": 3193,
+      "messages_published": 3193,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/vasteras_261005092508.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T09:28:27.800441+00:00",
+      "send_mode": "normal",
+      "records_read": 5182,
+      "messages_built": 3223,
+      "messages_published": 3223,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/vasteras_261005094010.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T09:43:18.322831+00:00",
+      "send_mode": "normal",
+      "records_read": 5132,
+      "messages_built": 3152,
+      "messages_published": 3152,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/vasteras_261005095511.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T09:58:24.681266+00:00",
+      "send_mode": "normal",
+      "records_read": 5197,
+      "messages_built": 3268,
+      "messages_published": 3268,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/vasteras_261005101022.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T10:13:07.544092+00:00",
+      "send_mode": "normal",
+      "records_read": 4145,
+      "messages_built": 2487,
+      "messages_published": 2487,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/vasteras_261005102508.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T10:28:03.650946+00:00",
+      "send_mode": "normal",
+      "records_read": 3905,
+      "messages_built": 2361,
+      "messages_published": 2361,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/vasteras_261005104009.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T10:43:01.620679+00:00",
+      "send_mode": "normal",
+      "records_read": 3954,
+      "messages_built": 2294,
+      "messages_published": 2294,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/vasteras_261005105510.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T10:58:00.925978+00:00",
+      "send_mode": "normal",
+      "records_read": 3782,
+      "messages_built": 2169,
+      "messages_published": 2169,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/vasteras_261005111012.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T11:13:01.827848+00:00",
+      "send_mode": "normal",
+      "records_read": 3745,
+      "messages_built": 2186,
+      "messages_published": 2186,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/vasteras_261005112508.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T11:28:10.030925+00:00",
+      "send_mode": "normal",
+      "records_read": 3821,
+      "messages_built": 2190,
+      "messages_published": 2190,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/vasteras_261005114009.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T11:43:03.128050+00:00",
+      "send_mode": "normal",
+      "records_read": 3753,
+      "messages_built": 2141,
+      "messages_published": 2141,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/vasteras_261005115509.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T11:58:02.028981+00:00",
+      "send_mode": "normal",
+      "records_read": 3738,
+      "messages_built": 2143,
+      "messages_published": 2143,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/vasteras_261005121011.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T12:13:01.587533+00:00",
+      "send_mode": "normal",
+      "records_read": 4184,
+      "messages_built": 1927,
+      "messages_published": 1927,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/vasteras_261005122508.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T12:27:52.197930+00:00",
+      "send_mode": "normal",
+      "records_read": 2985,
+      "messages_built": 1735,
+      "messages_published": 1735,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/vasteras_261005124009.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T12:43:05.717518+00:00",
+      "send_mode": "normal",
+      "records_read": 3737,
+      "messages_built": 2350,
+      "messages_published": 2350,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/vasteras_261005125510.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T12:58:17.055234+00:00",
+      "send_mode": "normal",
+      "records_read": 5511,
+      "messages_built": 2927,
+      "messages_published": 2927,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/vasteras_261005131018.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T13:13:11.355745+00:00",
+      "send_mode": "normal",
+      "records_read": 4437,
+      "messages_built": 2576,
+      "messages_published": 2576,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/vasteras_261005132508.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T13:28:02.363361+00:00",
+      "send_mode": "normal",
+      "records_read": 3834,
+      "messages_built": 2218,
+      "messages_published": 2218,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/vasteras_261005134009.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T13:44:52.205450+00:00",
+      "send_mode": "normal",
+      "records_read": 3613,
+      "messages_built": 2115,
+      "messages_published": 2115,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/vasteras_261005135510.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T13:59:03.226785+00:00",
+      "send_mode": "normal",
+      "records_read": 3633,
+      "messages_built": 2132,
+      "messages_published": 2132,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/vasteras_261005141011.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T14:14:15.112602+00:00",
+      "send_mode": "normal",
+      "records_read": 3737,
+      "messages_built": 2178,
+      "messages_published": 2178,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/vasteras_261005142508.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T14:51:40.680947+00:00",
+      "send_mode": "normal",
+      "records_read": 3762,
+      "messages_built": 2169,
+      "messages_published": 2169,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/vasteras_261005144009.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T14:52:56.761165+00:00",
+      "send_mode": "normal",
+      "records_read": 3894,
+      "messages_built": 2233,
+      "messages_published": 2233,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    }
+  }
+}

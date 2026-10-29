@@ -1,0 +1,436 @@
+{
+  "processed_batches": {
+    "2026-08-01": {
+      "status": "completed",
+      "completed_at": "2026-09-08T11:20:24.446488+00:00",
+      "send_mode": "history_data",
+      "parquet_files": 1,
+      "records_read": 185472,
+      "messages_built": 99476,
+      "messages_published": 99476,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "2026-08-02": {
+      "status": "completed",
+      "completed_at": "2026-09-08T11:51:58.686968+00:00",
+      "send_mode": "history_data",
+      "parquet_files": 1,
+      "records_read": 189432,
+      "messages_built": 101288,
+      "messages_published": 101288,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "2026-08-03": {
+      "status": "completed",
+      "completed_at": "2026-09-08T12:13:14.280435+00:00",
+      "send_mode": "history_data",
+      "parquet_files": 1,
+      "records_read": 192913,
+      "messages_built": 102228,
+      "messages_published": 102228,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "2026-08-04": {
+      "status": "completed",
+      "completed_at": "2026-09-08T12:33:16.665810+00:00",
+      "send_mode": "history_data",
+      "parquet_files": 1,
+      "records_read": 188682,
+      "messages_built": 100997,
+      "messages_published": 100997,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "2026-08-05": {
+      "status": "completed",
+      "completed_at": "2026-09-08T12:53:53.475503+00:00",
+      "send_mode": "history_data",
+      "parquet_files": 1,
+      "records_read": 190564,
+      "messages_built": 100820,
+      "messages_published": 100820,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "2026-08-06": {
+      "status": "completed",
+      "completed_at": "2026-09-08T13:14:46.633122+00:00",
+      "send_mode": "history_data",
+      "parquet_files": 1,
+      "records_read": 194442,
+      "messages_built": 102137,
+      "messages_published": 102137,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "2026-08-07": {
+      "status": "completed",
+      "completed_at": "2026-09-08T13:28:38.963457+00:00",
+      "send_mode": "history_data",
+      "parquet_files": 1,
+      "records_read": 134479,
+      "messages_built": 68515,
+      "messages_published": 68515,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "2026-08-08": {
+      "status": "completed",
+      "completed_at": "2026-09-08T14:04:20.706375+00:00",
+      "send_mode": "history_data",
+      "parquet_files": 1,
+      "records_read": 139644,
+      "messages_built": 71096,
+      "messages_published": 71096,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "2026-08-09": {
+      "status": "completed",
+      "completed_at": "2026-09-08T14:20:28.682375+00:00",
+      "send_mode": "history_data",
+      "parquet_files": 1,
+      "records_read": 136394,
+      "messages_built": 72015,
+      "messages_published": 72015,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "2026-08-10": {
+      "status": "completed",
+      "completed_at": "2026-09-08T14:34:59.367872+00:00",
+      "send_mode": "history_data",
+      "parquet_files": 1,
+      "records_read": 133319,
+      "messages_built": 69895,
+      "messages_published": 69895,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    }
+  },
+  "processed_files": {
+    "2026-09-08/kna1_lc_test_2026-09-10.parquet": {
+      "status": "completed",
+      "completed_at": "2026-09-11T09:57:53.186889+00:00",
+      "send_mode": "history_data",
+      "records_read": 9192,
+      "messages_built": 4596,
+      "messages_published": 4596,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "2026-08-10/kna1_lc_test_2026-09-10.parquet": {
+      "status": "completed",
+      "completed_at": "2026-09-11T10:01:35.260452+00:00",
+      "send_mode": "history_data",
+      "records_read": 9192,
+      "messages_built": 4596,
+      "messages_published": 4596,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "2026-08-01/2026-08-01.parquet": {
+      "status": "completed",
+      "completed_at": "2026-09-14T10:35:33.268755+00:00",
+      "send_mode": "history_data",
+      "records_read": 185472,
+      "messages_built": 99476,
+      "messages_published": 99476,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "2026-08-02/2026-08-02.parquet": {
+      "status": "completed",
+      "completed_at": "2026-09-14T11:03:34.265661+00:00",
+      "send_mode": "history_data",
+      "records_read": 189432,
+      "messages_built": 101288,
+      "messages_published": 101288,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "2026-08-03/2026-08-03.parquet": {
+      "status": "completed",
+      "completed_at": "2026-09-14T11:26:14.176515+00:00",
+      "send_mode": "history_data",
+      "records_read": 192913,
+      "messages_built": 102228,
+      "messages_published": 102228,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "2026-08-04/2026-08-04.parquet": {
+      "status": "completed",
+      "completed_at": "2026-09-14T11:48:08.953368+00:00",
+      "send_mode": "history_data",
+      "records_read": 188682,
+      "messages_built": 100997,
+      "messages_published": 100997,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/vaggeryd_261005082511.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T09:08:47.621708+00:00",
+      "send_mode": "normal",
+      "records_read": 7543,
+      "messages_built": 4276,
+      "messages_published": 4276,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/vaggeryd_261005084013.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T09:10:02.256865+00:00",
+      "send_mode": "normal",
+      "records_read": 7502,
+      "messages_built": 4408,
+      "messages_published": 4408,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/vaggeryd_261005085513.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T09:11:33.380624+00:00",
+      "send_mode": "normal",
+      "records_read": 7837,
+      "messages_built": 4462,
+      "messages_published": 4462,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/vaggeryd_261005091025.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T09:13:43.513372+00:00",
+      "send_mode": "normal",
+      "records_read": 7945,
+      "messages_built": 4542,
+      "messages_published": 4542,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/vaggeryd_261005092511.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T09:28:39.032444+00:00",
+      "send_mode": "normal",
+      "records_read": 7953,
+      "messages_built": 4449,
+      "messages_published": 4449,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/vaggeryd_261005094013.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T09:43:33.855596+00:00",
+      "send_mode": "normal",
+      "records_read": 7839,
+      "messages_built": 4378,
+      "messages_published": 4378,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/vaggeryd_261005095514.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T09:58:37.466908+00:00",
+      "send_mode": "normal",
+      "records_read": 7820,
+      "messages_built": 4488,
+      "messages_published": 4488,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/vaggeryd_261005101030.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T10:13:33.631583+00:00",
+      "send_mode": "normal",
+      "records_read": 7774,
+      "messages_built": 4332,
+      "messages_published": 4332,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/vaggeryd_261005102510.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T10:28:25.106902+00:00",
+      "send_mode": "normal",
+      "records_read": 7650,
+      "messages_built": 4379,
+      "messages_published": 4379,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/vaggeryd_261005104012.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T10:43:25.440870+00:00",
+      "send_mode": "normal",
+      "records_read": 7800,
+      "messages_built": 4210,
+      "messages_published": 4210,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/vaggeryd_261005105513.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T10:58:28.308943+00:00",
+      "send_mode": "normal",
+      "records_read": 7782,
+      "messages_built": 4317,
+      "messages_published": 4317,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/vaggeryd_261005111015.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T11:13:27.347411+00:00",
+      "send_mode": "normal",
+      "records_read": 7561,
+      "messages_built": 4264,
+      "messages_published": 4264,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/vaggeryd_261005112510.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T11:28:32.988828+00:00",
+      "send_mode": "normal",
+      "records_read": 7642,
+      "messages_built": 4327,
+      "messages_published": 4327,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/vaggeryd_261005114011.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T11:43:26.788919+00:00",
+      "send_mode": "normal",
+      "records_read": 7140,
+      "messages_built": 4065,
+      "messages_published": 4065,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/vaggeryd_261005115512.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T11:58:27.031565+00:00",
+      "send_mode": "normal",
+      "records_read": 7140,
+      "messages_built": 4112,
+      "messages_published": 4112,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/vaggeryd_261005121014.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T12:13:31.315496+00:00",
+      "send_mode": "normal",
+      "records_read": 7594,
+      "messages_built": 4185,
+      "messages_published": 4185,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/vaggeryd_261005122510.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T12:28:28.468523+00:00",
+      "send_mode": "normal",
+      "records_read": 7200,
+      "messages_built": 4145,
+      "messages_published": 4145,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/vaggeryd_261005124012.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T12:43:32.087002+00:00",
+      "send_mode": "normal",
+      "records_read": 7205,
+      "messages_built": 4271,
+      "messages_published": 4271,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/vaggeryd_261005125514.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T12:58:35.859684+00:00",
+      "send_mode": "normal",
+      "records_read": 7329,
+      "messages_built": 4281,
+      "messages_published": 4281,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/vaggeryd_261005131021.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T13:13:37.172286+00:00",
+      "send_mode": "normal",
+      "records_read": 7941,
+      "messages_built": 4443,
+      "messages_published": 4443,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/vaggeryd_261005132510.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T13:28:30.240902+00:00",
+      "send_mode": "normal",
+      "records_read": 7680,
+      "messages_built": 4316,
+      "messages_published": 4316,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/vaggeryd_261005134012.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T13:45:24.250035+00:00",
+      "send_mode": "normal",
+      "records_read": 7719,
+      "messages_built": 4260,
+      "messages_published": 4260,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/vaggeryd_261005135513.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T14:00:00.674785+00:00",
+      "send_mode": "normal",
+      "records_read": 7867,
+      "messages_built": 4398,
+      "messages_published": 4398,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/vaggeryd_261005141015.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T14:14:46.553401+00:00",
+      "send_mode": "normal",
+      "records_read": 7987,
+      "messages_built": 4347,
+      "messages_published": 4347,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/vaggeryd_261005142510.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T14:52:42.786070+00:00",
+      "send_mode": "normal",
+      "records_read": 8021,
+      "messages_built": 4483,
+      "messages_published": 4483,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/vaggeryd_261005144012.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T14:54:36.976414+00:00",
+      "send_mode": "normal",
+      "records_read": 7542,
+      "messages_built": 4315,
+      "messages_published": 4315,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    }
+  }
+}
