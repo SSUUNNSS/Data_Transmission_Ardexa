@@ -4,20 +4,22 @@ $projectRoot = Split-Path -Parent $PSScriptRoot
 $python = Join-Path $projectRoot ".venv\Scripts\python.exe"
 $runner = Join-Path $PSScriptRoot "upload_hams_hall_station.py"
 $logDirectory = Join-Path $projectRoot "logs"
-$logPath = Join-Path $logDirectory "hams_hall_powershell.log"
-$mutex = New-Object System.Threading.Mutex($false, "Local\ArdexaHamsHallScheduledUpload")
-$hasMutex = $false
+$runId = "{0}_{1}_{2}" -f (Get-Date -Format "yyyyMMdd_HHmmss_fff"), $PID, ([guid]::NewGuid().ToString("N").Substring(0, 8))
+$logPath = Join-Path $logDirectory "hams_hall_powershell_$runId.log"
+$lockPath = Join-Path $logDirectory "hams_hall_upload.lock"
+$lockStream = $null
 
 New-Item -ItemType Directory -Path $logDirectory -Force | Out-Null
 
 try {
-    $hasMutex = $mutex.WaitOne(0)
-} catch [System.Threading.AbandonedMutexException] {
-    $hasMutex = $true
-}
-
-if (-not $hasMutex) {
-    Write-Host "[$(Get-Date -Format 'yyyy-MM-dd HH:mm:ss zzz')] SKIP another upload cycle is already running"
+    $lockStream = [System.IO.File]::Open(
+        $lockPath,
+        [System.IO.FileMode]::OpenOrCreate,
+        [System.IO.FileAccess]::ReadWrite,
+        [System.IO.FileShare]::None
+    )
+} catch [System.IO.IOException] {
+    Write-Host "[$(Get-Date -Format 'yyyy-MM-dd HH:mm:ss zzz')] SKIP another upload cycle owns the global lock"
     exit 0
 }
 
@@ -47,6 +49,7 @@ Write-Host $endMessage
 Add-Content -Path $logPath -Encoding UTF8 -Value $endMessage
 exit $exitCode
 } finally {
-    $mutex.ReleaseMutex()
-    $mutex.Dispose()
+    if ($null -ne $lockStream) {
+        $lockStream.Dispose()
+    }
 }
