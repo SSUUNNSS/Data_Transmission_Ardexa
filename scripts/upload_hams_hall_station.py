@@ -10,27 +10,31 @@ from pathlib import Path
 
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
 SENDER = PROJECT_ROOT / "tests" / "send_ardexa_api_payload.py"
-LOG_PATH = PROJECT_ROOT / "logs" / "hams_hall_scheduled_upload.log"
+LOG_DIRECTORY = PROJECT_ROOT / "logs"
 SITES = (
     {
+        "number": "01",
         "name": "Hams Hall 01",
         "config": PROJECT_ROOT / "config" / "Hams_Hall_local.json",
         "device_code_map": PROJECT_ROOT / "config" / "Hams_Hall_DevCode.json",
         "device_id": "77eba054-9702-44c1-945c-9fe704e0af7e",
     },
     {
+        "number": "02",
         "name": "Hams Hall 02",
         "config": PROJECT_ROOT / "config" / "Hams_Hall_02_local.json",
         "device_code_map": PROJECT_ROOT / "config" / "Hams_Hall_DevCode_02.json",
         "device_id": "138ae3eb-b170-4ba4-9cf0-6752c4e425a2",
     },
     {
+        "number": "03",
         "name": "Hams Hall 03",
         "config": PROJECT_ROOT / "config" / "Hams_Hall_03_local.json",
         "device_code_map": PROJECT_ROOT / "config" / "Hams_Hall_DevCode_03.json",
         "device_id": "06e7ba01-1085-41d6-8dd5-d6b73617a420",
     },
     {
+        "number": "04",
         "name": "Hams Hall 04",
         "config": PROJECT_ROOT / "config" / "Hams_Hall_04_local.json",
         "device_code_map": PROJECT_ROOT / "config" / "Hams_Hall_DevCode_04.json",
@@ -39,13 +43,13 @@ SITES = (
 )
 
 
-def configure_logging() -> logging.Logger:
-    LOG_PATH.parent.mkdir(parents=True, exist_ok=True)
-    logger = logging.getLogger("hams_hall_scheduler")
+def get_file_logger(name: str, filename: str) -> logging.Logger:
+    LOG_DIRECTORY.mkdir(parents=True, exist_ok=True)
+    logger = logging.getLogger(name)
     logger.setLevel(logging.INFO)
     if not logger.handlers:
         handler = RotatingFileHandler(
-            LOG_PATH,
+            LOG_DIRECTORY / filename,
             maxBytes=10 * 1024 * 1024,
             backupCount=5,
             encoding="utf-8",
@@ -73,8 +77,12 @@ def site_command(site: dict[str, str]) -> list[str]:
     ]
 
 
-def run_site(site: dict[str, str], logger: logging.Logger) -> bool:
-    logger.info("Starting %s upload", site["name"])
+def run_site(site: dict[str, str]) -> bool:
+    site_logger = get_file_logger(
+        f"hams_hall_{site['number']}",
+        f"hams_hall_{site['number']}.log",
+    )
+    site_logger.info("Starting %s upload", site["name"])
     print(f"[{site['name']}] Upload starting", flush=True)
     result = subprocess.run(
         site_command(site),
@@ -86,7 +94,7 @@ def run_site(site: dict[str, str], logger: logging.Logger) -> bool:
         check=False,
     )
     if result.stdout:
-        logger.info("%s output:\n%s", site["name"], result.stdout.rstrip())
+        site_logger.info("Upload output:\n%s", result.stdout.rstrip())
         summary_prefixes = (
             "HTTP API status:",
             "Exact-matched supported sources:",
@@ -101,21 +109,21 @@ def run_site(site: dict[str, str], logger: logging.Logger) -> bool:
             if line.startswith(summary_prefixes):
                 print(f"[{site['name']}] {line}", flush=True)
     if result.stderr:
-        logger.warning("%s errors:\n%s", site["name"], result.stderr.rstrip())
+        site_logger.warning("Upload errors:\n%s", result.stderr.rstrip())
     if result.returncode == 0:
-        logger.info("%s upload completed", site["name"])
+        site_logger.info("%s upload completed", site["name"])
         print(f"[{site['name']}] Upload completed", flush=True)
         return True
-    logger.error("%s upload failed with exit code %s", site["name"], result.returncode)
+    site_logger.error("%s upload failed with exit code %s", site["name"], result.returncode)
     print(f"[{site['name']}] Upload failed (exit code {result.returncode})", flush=True)
     return False
 
 
 def main() -> int:
-    logger = configure_logging()
-    logger.info("Starting scheduled cycle at %s", datetime.now(timezone.utc).isoformat())
-    results = [run_site(site, logger) for site in SITES]
-    logger.info("Scheduled cycle finished; successful_sites=%s/%s", sum(results), len(results))
+    cycle_logger = get_file_logger("hams_hall_cycle", "hams_hall_cycle.log")
+    cycle_logger.info("Starting scheduled cycle at %s", datetime.now(timezone.utc).isoformat())
+    results = [run_site(site) for site in SITES]
+    cycle_logger.info("Scheduled cycle finished; successful_sites=%s/%s", sum(results), len(results))
     return 0 if all(results) else 1
 
 
