@@ -1,0 +1,1337 @@
+{
+    "DESCRIPTION": [
+        {
+            "Measurement Point Number": "测点编号"
+        }
+    ],
+    "DC Voltage": [
+        {
+            "Measurement Point Number": "31001",
+            "type": "Telemetry",
+            "Device Type": "Rack"
+        },
+        {
+            "Measurement Point Number": "44159",
+            "type": "Telemetry",
+            "Device Type": "PCS"
+        }
+    ],
+    "DC Current": [
+        {
+            "Measurement Point Number": "31002",
+            "type": "Telemetry",
+            "Device Type": "Rack"
+        },
+        {
+            "Measurement Point Number": "44160",
+            "type": "Telemetry",
+            "Device Type": "PCS"
+        }
+    ],
+    "SOC": [
+        {
+            "Measurement Point Number": "31003",
+            "type": "Telemetry",
+            "Device Type": "Rack"
+        },
+        {
+            "Measurement Point Number": "50054",
+            "type": "Telemetry",
+            "Device Type": "BSC"
+        }
+    ],
+    "SOH": [
+        {
+            "Measurement Point Number": "31004",
+            "type": "Telemetry",
+            "Device Type": "Rack"
+        },
+        {
+            "Measurement Point Number": "50055",
+            "type": "Telemetry",
+            "Device Type": "BSC"
+        }
+    ],
+    "Cell Voltage Min": [
+        {
+            "Measurement Point Number": "31013",
+            "type": "Telemetry",
+            "Device Type": "Rack"
+        }
+    ],
+    "Cell Voltage Max": [
+        {
+            "Measurement Point Number": "31015",
+            "type": "Telemetry",
+            "Device Type": "Rack"
+        }
+    ],
+    "Cell Voltage Avg": [
+        {
+            "Measurement Point Number": "31017",
+            "type": "Telemetry",
+            "Device Type": "Rack"
+        }
+    ],
+    "Cell Temperature Min": [
+        {
+            "Measurement Point Number": "31026",
+            "type": "Telemetry",
+            "Device Type": "Rack"
+        }
+    ],
+    "Cell Temperature Max": [
+        {
+            "Measurement Point Number": "31028",
+            "type": "Telemetry",
+            "Device Type": "Rack"
+        }
+    ],
+    "Temperature Avg": [
+        {
+            "Measurement Point Number": "31030",
+            "type": "Telemetry",
+            "Device Type": "Rack"
+        }
+    ],
+    "Capacity": [
+        {
+            "Measurement Point Number": "31130",
+            "type": "Telemetry",
+            "Device Type": "Rack"
+        }
+    ],
+    "Charge Current Max": [
+        {
+            "Measurement Point Number": "31133",
+            "type": "Telemetry",
+            "Device Type": "Rack"
+        }
+    ],
+    "Discharge Current Max": [
+        {
+            "Measurement Point Number": "31134",
+            "type": "Telemetry",
+            "Device Type": "Rack"
+        }
+    ],
+    "Total Charge Capacity": [
+        {
+            "Measurement Point Number": "31147",
+            "type": "Telemetry",
+            "Device Type": "Rack"
+        }
+    ],
+    "Total Discharge Capacity": [
+        {
+            "Measurement Point Number": "31148",
+            "type": "Telemetry",
+            "Device Type": "Rack"
+        }
+    ],
+    "Status": [
+        {
+            "Measurement Point Number": "31151",
+            "type": "Telemetry",
+            "Device Type": "Rack"
+        }
+    ],
+    "Total Charge Energy": [
+        {
+            "Measurement Point Number": "33599",
+            "type": "Telemetry",
+            "Device Type": "Rack"
+        },
+        {
+            "Measurement Point Number": "44007",
+            "type": "Telemetry",
+            "Device Type": "PCS"
+        }
+    ],
+    "Total Discharge Energy": [
+        {
+            "Measurement Point Number": "33600",
+            "type": "Telemetry",
+            "Device Type": "Rack"
+        },
+        {
+            "Measurement Point Number": "44008",
+            "type": "Telemetry",
+            "Device Type": "PCS"
+        }
+    ],
+    "Charge-Discharge Cycle Count": [
+        {
+            "Measurement Point Number": "33601",
+            "type": "Telemetry",
+            "Device Type": "Rack"
+        }
+    ],
+    "SOE": [
+        {
+            "Measurement Point Number": "51129",
+            "type": "Telemetry",
+            "Device Type": "Rack"
+        }
+    ],
+    "Contactor Status": [
+        {
+            "Measurement Point Number": "51131",
+            "type": "Telemetry",
+            "Device Type": "Rack"
+        }
+    ],
+    "Comm Status": [
+        {
+            "Measurement Point Number": "51132",
+            "type": "Telemetry",
+            "Device Type": "Rack"
+        }
+    ],
+    "Cell Voltage Max Cell Position": [
+        {
+            "Measurement Point Number": "31154",
+            "type": "Telemetry",
+            "Device Type": "Rack"
+        }
+    ],
+    "Cell Voltage Max Pack Position": [
+        {
+            "Measurement Point Number": "31153",
+            "type": "Telemetry",
+            "Device Type": "Rack"
+        }
+    ],
+    "Cell Voltage Min Cell Position": [
+        {
+            "Measurement Point Number": "31157",
+            "type": "Telemetry",
+            "Device Type": "Rack"
+        }
+    ],
+    "Cell Voltage Min Pack Position": [
+        {
+            "Measurement Point Number": "31156",
+            "type": "Telemetry",
+            "Device Type": "Rack"
+        }
+    ],
+    "Cell Temperature Max Cell Position": [
+        {
+            "Measurement Point Number": "31160",
+            "type": "Telemetry",
+            "Device Type": "Rack"
+        }
+    ],
+    "Cell Temperature Min Cell Position": [
+        {
+            "Measurement Point Number": "31163",
+            "type": "Telemetry",
+            "Device Type": "Rack"
+        }
+    ],
+    "Cell Temperature Max Pack Position": [
+        {
+            "Measurement Point Number": "31159",
+            "type": "Telemetry",
+            "Device Type": "Rack"
+        }
+    ],
+    "Cell Temperature Min Pack Position": [
+        {
+            "Measurement Point Number": "31162",
+            "type": "Telemetry",
+            "Device Type": "Rack"
+        }
+    ],
+    "CMU Fault: CMU-BMU Comm": [
+        {
+            "Measurement Point Number": "33609",
+            "type": "Telesignaling",
+            "Device Type": "Rack"
+        }
+    ],
+    "CMU Fault: CMU-SMU Comm": [
+        {
+            "Measurement Point Number": "33610",
+            "type": "Telesignaling",
+            "Device Type": "Rack"
+        }
+    ],
+    "CMU Alarm 2: Pack Under Voltage": [
+        {
+            "Measurement Point Number": "33611",
+            "type": "Telesignaling",
+            "Device Type": "Rack"
+        }
+    ],
+    "CMU Alarm 3: Pack Under Voltage": [
+        {
+            "Measurement Point Number": "33611",
+            "type": "Telesignaling",
+            "Device Type": "Rack"
+        }
+    ],
+    "CMU Fault: Pack Under Voltage": [
+        {
+            "Measurement Point Number": "33612",
+            "type": "Telesignaling",
+            "Device Type": "Rack"
+        }
+    ],
+    "CMU Alarm 2: Pack Over Voltage": [
+        {
+            "Measurement Point Number": "33613",
+            "type": "Telesignaling",
+            "Device Type": "Rack"
+        }
+    ],
+    "CMU Alarm 3: Pack Over Voltage": [
+        {
+            "Measurement Point Number": "33613",
+            "type": "Telesignaling",
+            "Device Type": "Rack"
+        }
+    ],
+    "CMU Fault: Pack Over Voltage": [
+        {
+            "Measurement Point Number": "33614",
+            "type": "Telesignaling",
+            "Device Type": "Rack"
+        }
+    ],
+    "CMU Alarm 2: Pack Voltage Difference": [
+        {
+            "Measurement Point Number": "33615",
+            "type": "Telesignaling",
+            "Device Type": "Rack"
+        }
+    ],
+    "CMU Alarm 3: Pack Voltage Difference": [
+        {
+            "Measurement Point Number": "33615",
+            "type": "Telesignaling",
+            "Device Type": "Rack"
+        }
+    ],
+    "CMU Fault: Pack Voltage Difference": [
+        {
+            "Measurement Point Number": "33616",
+            "type": "Telesignaling",
+            "Device Type": "Rack"
+        }
+    ],
+    "CMU Alarm 2: Cell Low Temperature": [
+        {
+            "Measurement Point Number": "33618",
+            "type": "Telesignaling",
+            "Device Type": "Rack"
+        }
+    ],
+    "CMU Alarm 3: Cell Low Temperature": [
+        {
+            "Measurement Point Number": "33618",
+            "type": "Telesignaling",
+            "Device Type": "Rack"
+        }
+    ],
+    "CMU Fault: Cell Low Temperature": [
+        {
+            "Measurement Point Number": "33619",
+            "type": "Telesignaling",
+            "Device Type": "Rack"
+        }
+    ],
+    "CMU Alarm 2: Cell Under Voltage": [
+        {
+            "Measurement Point Number": "33620",
+            "type": "Telesignaling",
+            "Device Type": "Rack"
+        }
+    ],
+    "CMU Alarm 3: Cell Under Voltage": [
+        {
+            "Measurement Point Number": "33620",
+            "type": "Telesignaling",
+            "Device Type": "Rack"
+        }
+    ],
+    "CMU Fault: Cell Under Voltage": [
+        {
+            "Measurement Point Number": "33621",
+            "type": "Telesignaling",
+            "Device Type": "Rack"
+        }
+    ],
+    "CMU Alarm 2: Cell Over Temperature": [
+        {
+            "Measurement Point Number": "33622",
+            "type": "Telesignaling",
+            "Device Type": "Rack"
+        }
+    ],
+    "CMU Alarm 3: Cell Over Temperature": [
+        {
+            "Measurement Point Number": "33622",
+            "type": "Telesignaling",
+            "Device Type": "Rack"
+        }
+    ],
+    "CMU Fault: Cell Over Temperature": [
+        {
+            "Measurement Point Number": "33623",
+            "type": "Telesignaling",
+            "Device Type": "Rack"
+        }
+    ],
+    "CMU Alarm 2: Cell Over Voltage": [
+        {
+            "Measurement Point Number": "33624",
+            "type": "Telesignaling",
+            "Device Type": "Rack"
+        }
+    ],
+    "CMU Alarm 3: Cell Over Voltage": [
+        {
+            "Measurement Point Number": "33624",
+            "type": "Telesignaling",
+            "Device Type": "Rack"
+        }
+    ],
+    "CMU Fault: Cell Over Voltage": [
+        {
+            "Measurement Point Number": "33625",
+            "type": "Telesignaling",
+            "Device Type": "Rack"
+        }
+    ],
+    "CMU Alarm 2: Cell Temperature Difference": [
+        {
+            "Measurement Point Number": "33626",
+            "type": "Telesignaling",
+            "Device Type": "Rack"
+        }
+    ],
+    "CMU Alarm 3: Cell Temperature Difference": [
+        {
+            "Measurement Point Number": "33626",
+            "type": "Telesignaling",
+            "Device Type": "Rack"
+        }
+    ],
+    "CMU Alarm 2: Cell Voltage Difference": [
+        {
+            "Measurement Point Number": "33627",
+            "type": "Telesignaling",
+            "Device Type": "Rack"
+        }
+    ],
+    "CMU Alarm 3: Cell Voltage Difference": [
+        {
+            "Measurement Point Number": "33627",
+            "type": "Telesignaling",
+            "Device Type": "Rack"
+        }
+    ],
+    "CMU Fault: Voltage Sample": [
+        {
+            "Measurement Point Number": "33629",
+            "type": "Telesignaling",
+            "Device Type": "Rack"
+        }
+    ],
+    "CMU Fault: Polarity Reversal": [
+        {
+            "Measurement Point Number": "33635",
+            "type": "Telesignaling",
+            "Device Type": "Rack"
+        }
+    ],
+    "CMU Fault: Temperature Sample": [
+        {
+            "Measurement Point Number": "33643",
+            "type": "Telesignaling",
+            "Device Type": "Rack"
+        }
+    ],
+    "CMU Alarm 2: Total Under Voltage": [
+        {
+            "Measurement Point Number": "33645",
+            "type": "Telesignaling",
+            "Device Type": "Rack"
+        }
+    ],
+    "CMU Alarm 3: Total Under Voltage": [
+        {
+            "Measurement Point Number": "33645",
+            "type": "Telesignaling",
+            "Device Type": "Rack"
+        }
+    ],
+    "CMU Fault: Total Under Voltage": [
+        {
+            "Measurement Point Number": "33646",
+            "type": "Telesignaling",
+            "Device Type": "Rack"
+        }
+    ],
+    "CMU Alarm 2: Total Over Voltage": [
+        {
+            "Measurement Point Number": "33647",
+            "type": "Telesignaling",
+            "Device Type": "Rack"
+        }
+    ],
+    "CMU Alarm 3: Total Over Voltage": [
+        {
+            "Measurement Point Number": "33647",
+            "type": "Telesignaling",
+            "Device Type": "Rack"
+        }
+    ],
+    "CMU Fault: Total Over Voltage": [
+        {
+            "Measurement Point Number": "33648",
+            "type": "Telesignaling",
+            "Device Type": "Rack"
+        }
+    ],
+    "CMU Fault: Total Voltage Difference": [
+        {
+            "Measurement Point Number": "33649",
+            "type": "Telesignaling",
+            "Device Type": "Rack"
+        }
+    ],
+    "CMU Fault: Charge Over Current": [
+        {
+            "Measurement Point Number": "33665",
+            "type": "Telesignaling",
+            "Device Type": "Rack"
+        }
+    ],
+    "CMU Fault: Discharge Over Current": [
+        {
+            "Measurement Point Number": "33666",
+            "type": "Telesignaling",
+            "Device Type": "Rack"
+        }
+    ],
+    "CMU Fault: Short Circuit": [
+        {
+            "Measurement Point Number": "33667",
+            "type": "Telesignaling",
+            "Device Type": "Rack"
+        }
+    ],
+    "CMU Alarm 2: CMU-BMU Comm": [
+        {
+            "Measurement Point Number": "33668",
+            "type": "Telesignaling",
+            "Device Type": "Rack"
+        }
+    ],
+    "CMU Alarm 3: CMU-BMU Comm": [
+        {
+            "Measurement Point Number": "33668",
+            "type": "Telesignaling",
+            "Device Type": "Rack"
+        }
+    ],
+    "CMU Alarm 2: Voltage Sample": [
+        {
+            "Measurement Point Number": "33669",
+            "type": "Telesignaling",
+            "Device Type": "Rack"
+        }
+    ],
+    "CMU Alarm 3: Voltage Sample": [
+        {
+            "Measurement Point Number": "33669",
+            "type": "Telesignaling",
+            "Device Type": "Rack"
+        }
+    ],
+    "CMU Alarm 2: Temperature Sample": [
+        {
+            "Measurement Point Number": "33670",
+            "type": "Telesignaling",
+            "Device Type": "Rack"
+        }
+    ],
+    "CMU Alarm 3: Temperature Sample": [
+        {
+            "Measurement Point Number": "33670",
+            "type": "Telesignaling",
+            "Device Type": "Rack"
+        }
+    ],
+    "CMU Alarm 2: Charge Over Current": [
+        {
+            "Measurement Point Number": "33694",
+            "type": "Telesignaling",
+            "Device Type": "Rack"
+        }
+    ],
+    "CMU Alarm 3: Charge Over Current": [
+        {
+            "Measurement Point Number": "33694",
+            "type": "Telesignaling",
+            "Device Type": "Rack"
+        }
+    ],
+    "CMU Alarm 2: Discharge Over Current": [
+        {
+            "Measurement Point Number": "33695",
+            "type": "Telesignaling",
+            "Device Type": "Rack"
+        }
+    ],
+    "CMU Alarm 3: Discharge Over Current": [
+        {
+            "Measurement Point Number": "33695",
+            "type": "Telesignaling",
+            "Device Type": "Rack"
+        }
+    ],
+    "CMU Fault: CMU-ARM Comm": [
+        {
+            "Measurement Point Number": "51202",
+            "type": "Telesignaling",
+            "Device Type": "Rack"
+        }
+    ],
+    "CMU Alarm 2: Total Voltage Difference": [
+        {
+            "Measurement Point Number": "51203",
+            "type": "Telesignaling",
+            "Device Type": "Rack"
+        }
+    ],
+    "CMU Alarm 3: Total Voltage Difference": [
+        {
+            "Measurement Point Number": "51203",
+            "type": "Telesignaling",
+            "Device Type": "Rack"
+        }
+    ],
+    "CMU Alarm 2: Temperature Rise": [
+        {
+            "Measurement Point Number": "51204",
+            "type": "Telesignaling",
+            "Device Type": "Rack"
+        }
+    ],
+    "CMU Alarm 3: Temperature Rise": [
+        {
+            "Measurement Point Number": "51204",
+            "type": "Telesignaling",
+            "Device Type": "Rack"
+        }
+    ],
+    "CMU Fault: Cell Voltage Difference": [
+        {
+            "Measurement Point Number": "51205",
+            "type": "Telesignaling",
+            "Device Type": "Rack"
+        }
+    ],
+    "CMU Fault: Cell Temperature Difference": [
+        {
+            "Measurement Point Number": "51206",
+            "type": "Telesignaling",
+            "Device Type": "Rack"
+        }
+    ],
+    "CMU Fault: Temperature Rise": [
+        {
+            "Measurement Point Number": "51207",
+            "type": "Telesignaling",
+            "Device Type": "Rack"
+        }
+    ],
+    "CMU Fault: MSD": [
+        {
+            "Measurement Point Number": "203555",
+            "type": "Telesignaling",
+            "Device Type": "Rack"
+        }
+    ],
+    "CMU Fault: Temperature Sensor Abnormal": [
+        {
+            "Measurement Point Number": "203556",
+            "type": "Telesignaling",
+            "Device Type": "Rack"
+        }
+    ],
+    "CMU Fault: Copper Bar Over Temperature": [
+        {
+            "Measurement Point Number": "203600",
+            "type": "Telesignaling",
+            "Device Type": "Rack"
+        }
+    ],
+    "CMU Fault: Copper Bar Low Temperature": [
+        {
+            "Measurement Point Number": "203601",
+            "type": "Telesignaling",
+            "Device Type": "Rack"
+        }
+    ],
+    "CMU Alarm 2: Copper Bar Over Temperature": [
+        {
+            "Measurement Point Number": "203602",
+            "type": "Telesignaling",
+            "Device Type": "Rack"
+        }
+    ],
+    "CMU Alarm 3: Copper Bar Over Temperature": [
+        {
+            "Measurement Point Number": "203602",
+            "type": "Telesignaling",
+            "Device Type": "Rack"
+        }
+    ],
+    "CMU Alarm 2: Copper Bar Low Temperature": [
+        {
+            "Measurement Point Number": "203603",
+            "type": "Telesignaling",
+            "Device Type": "Rack"
+        }
+    ],
+    "CMU Alarm 3: Copper Bar Low Temperature": [
+        {
+            "Measurement Point Number": "203603",
+            "type": "Telesignaling",
+            "Device Type": "Rack"
+        }
+    ],
+    "Daily Charge Energy": [
+        {
+            "Measurement Point Number": "44005",
+            "type": "Telemetry",
+            "Device Type": "PCS"
+        }
+    ],
+    "Daily Discharge Energy": [
+        {
+            "Measurement Point Number": "44006",
+            "type": "Telemetry",
+            "Device Type": "PCS"
+        }
+    ],
+    "DC Power": [
+        {
+            "Measurement Point Number": "44009",
+            "type": "Telemetry",
+            "Device Type": "PCS"
+        },
+        {
+            "Measurement Point Number": "49059",
+            "type": "Telemetry",
+            "Device Type": "LC"
+        }
+    ],
+    "Power factor": [
+        {
+            "Measurement Point Number": "44012",
+            "type": "Telemetry",
+            "Device Type": "PCS"
+        }
+    ],
+    "Working Mode": [
+        {
+            "Measurement Point Number": "44025",
+            "type": "Telemetry",
+            "Device Type": "PCS"
+        }
+    ],
+    "Grid Freq": [
+        {
+            "Measurement Point Number": "44029",
+            "type": "Telemetry",
+            "Device Type": "PCS"
+        }
+    ],
+    "Working Status": [
+        {
+            "Measurement Point Number": "44033",
+            "type": "Telemetry",
+            "Device Type": "PCS"
+        }
+    ],
+    "Charge-Discharge Status": [
+        {
+            "Measurement Point Number": "44039",
+            "type": "Telemetry",
+            "Device Type": "PCS"
+        }
+    ],
+    "AC Current 1": [
+        {
+            "Measurement Point Number": "44167",
+            "type": "Telemetry",
+            "Device Type": "PCS"
+        }
+    ],
+    "AC Current 2": [
+        {
+            "Measurement Point Number": "44168",
+            "type": "Telemetry",
+            "Device Type": "PCS"
+        }
+    ],
+    "AC Current 3": [
+        {
+            "Measurement Point Number": "44169",
+            "type": "Telemetry",
+            "Device Type": "PCS"
+        }
+    ],
+    "Apparent Power": [
+        {
+            "Measurement Point Number": "44170",
+            "type": "Telemetry",
+            "Device Type": "PCS"
+        }
+    ],
+    "CMU Communication Status": [
+        {
+            "Measurement Point Number": "44258",
+            "type": "Telemetry",
+            "Device Type": "PCS"
+        }
+    ],
+    "AC Voltage 12": [
+        {
+            "Measurement Point Number": "201001",
+            "type": "Telemetry",
+            "Device Type": "PCS"
+        }
+    ],
+    "AC Voltage 23": [
+        {
+            "Measurement Point Number": "201002",
+            "type": "Telemetry",
+            "Device Type": "PCS"
+        }
+    ],
+    "AC Voltage 31": [
+        {
+            "Measurement Point Number": "201003",
+            "type": "Telemetry",
+            "Device Type": "PCS"
+        }
+    ],
+    "Charge Power Max": [
+        {
+            "Measurement Point Number": "201006",
+            "type": "Telemetry",
+            "Device Type": "PCS"
+        }
+    ],
+    "Discharge Power Max": [
+        {
+            "Measurement Point Number": "201007",
+            "type": "Telemetry",
+            "Device Type": "PCS"
+        }
+    ],
+    "Battery Voltage 1": [
+        {
+            "Measurement Point Number": "201495",
+            "type": "Telemetry",
+            "Device Type": "PCS"
+        }
+    ],
+    "Battery Voltage 2": [
+        {
+            "Measurement Point Number": "201496",
+            "type": "Telemetry",
+            "Device Type": "PCS"
+        }
+    ],
+    "Battery Current 1": [
+        {
+            "Measurement Point Number": "201497",
+            "type": "Telemetry",
+            "Device Type": "PCS"
+        }
+    ],
+    "Battery Current 2": [
+        {
+            "Measurement Point Number": "201498",
+            "type": "Telemetry",
+            "Device Type": "PCS"
+        }
+    ],
+    "AC Power": [
+        {
+            "Measurement Point Number": "204130",
+            "type": "Telemetry",
+            "Device Type": "PCS"
+        }
+    ],
+    "Reactive Power": [
+        {
+            "Measurement Point Number": "204131",
+            "type": "Telemetry",
+            "Device Type": "PCS"
+        }
+    ],
+    "Alarm 1: Ambient Temperature Sensor Open": [
+        {
+            "Measurement Point Number": "44290",
+            "type": "Telesignaling",
+            "Device Type": "PCS"
+        }
+    ],
+    "Fault 2: Battery Current Sampling Abnormal": [
+        {
+            "Measurement Point Number": "44294",
+            "type": "Telesignaling",
+            "Device Type": "PCS"
+        }
+    ],
+    "Fault 2: AFCI Abnormal": [
+        {
+            "Measurement Point Number": "44298",
+            "type": "Telesignaling",
+            "Device Type": "PCS"
+        }
+    ],
+    "Fault 2: AFCI": [
+        {
+            "Measurement Point Number": "44299",
+            "type": "Telesignaling",
+            "Device Type": "PCS"
+        }
+    ],
+    "Fault 2: Junction Box Temperature": [
+        {
+            "Measurement Point Number": "44300",
+            "type": "Telesignaling",
+            "Device Type": "PCS"
+        }
+    ],
+    "Alarm 1: GFRT Running": [
+        {
+            "Measurement Point Number": "44314",
+            "type": "Telesignaling",
+            "Device Type": "PCS"
+        }
+    ],
+    "Alarm 1: Charging Conditions Are Not Met": [
+        {
+            "Measurement Point Number": "44315",
+            "type": "Telesignaling",
+            "Device Type": "PCS"
+        }
+    ],
+    "Alarm 1: Discharging Conditions Are Not Met": [
+        {
+            "Measurement Point Number": "44316",
+            "type": "Telesignaling",
+            "Device Type": "PCS"
+        }
+    ],
+    "Alarm 1: BMS Internal": [
+        {
+            "Measurement Point Number": "44317",
+            "type": "Telesignaling",
+            "Device Type": "PCS"
+        }
+    ],
+    "Alarm 1: Fan": [
+        {
+            "Measurement Point Number": "44318",
+            "type": "Telesignaling",
+            "Device Type": "PCS"
+        }
+    ],
+    "Fault 1: Bus Average Under Voltage": [
+        {
+            "Measurement Point Number": "44319",
+            "type": "Telesignaling",
+            "Device Type": "PCS"
+        }
+    ],
+    "Fault 1: Bus Voltage High": [
+        {
+            "Measurement Point Number": "44320",
+            "type": "Telesignaling",
+            "Device Type": "PCS"
+        }
+    ],
+    "Fault 1: Leakage Current Over": [
+        {
+            "Measurement Point Number": "44329",
+            "type": "Telesignaling",
+            "Device Type": "PCS"
+        }
+    ],
+    "Fault 1: Output Overload": [
+        {
+            "Measurement Point Number": "44330",
+            "type": "Telesignaling",
+            "Device Type": "PCS"
+        }
+    ],
+    "Fault 1: Fan Fault": [
+        {
+            "Measurement Point Number": "44331",
+            "type": "Telesignaling",
+            "Device Type": "PCS"
+        }
+    ],
+    "Fault 1: Dc Overcurrent": [
+        {
+            "Measurement Point Number": "44332",
+            "type": "Telesignaling",
+            "Device Type": "PCS"
+        }
+    ],
+    "Fault 1: AC Transient Overcurrent": [
+        {
+            "Measurement Point Number": "44333",
+            "type": "Telesignaling",
+            "Device Type": "PCS"
+        }
+    ],
+    "Fault 1: Ambient Temperature Abnormal": [
+        {
+            "Measurement Point Number": "44334",
+            "type": "Telesignaling",
+            "Device Type": "PCS"
+        }
+    ],
+    "Fault 1: Hardware Fault": [
+        {
+            "Measurement Point Number": "44335",
+            "type": "Telesignaling",
+            "Device Type": "PCS"
+        }
+    ],
+    "Fault 1: Overvoltage Protection": [
+        {
+            "Measurement Point Number": "44336",
+            "type": "Telesignaling",
+            "Device Type": "PCS"
+        }
+    ],
+    "Fault 1: Low Voltage Protection": [
+        {
+            "Measurement Point Number": "44337",
+            "type": "Telesignaling",
+            "Device Type": "PCS"
+        }
+    ],
+    "Fault 2: System Low Insulation Impedance": [
+        {
+            "Measurement Point Number": "44339",
+            "type": "Telesignaling",
+            "Device Type": "PCS"
+        }
+    ],
+    "Fault 2: Analog Offset Abnormal": [
+        {
+            "Measurement Point Number": "44341",
+            "type": "Telesignaling",
+            "Device Type": "PCS"
+        }
+    ],
+    "Fault 2: DC Contactor": [
+        {
+            "Measurement Point Number": "44344",
+            "type": "Telesignaling",
+            "Device Type": "PCS"
+        }
+    ],
+    "Fault 2: DC Soft Start": [
+        {
+            "Measurement Point Number": "44346",
+            "type": "Telesignaling",
+            "Device Type": "PCS"
+        }
+    ],
+    "Fault 2: DC Component Over": [
+        {
+            "Measurement Point Number": "44347",
+            "type": "Telesignaling",
+            "Device Type": "PCS"
+        }
+    ],
+    "Fault 2: Address Code Duplication": [
+        {
+            "Measurement Point Number": "44348",
+            "type": "Telesignaling",
+            "Device Type": "PCS"
+        }
+    ],
+    "Fault 2: Parallel Comm": [
+        {
+            "Measurement Point Number": "44349",
+            "type": "Telesignaling",
+            "Device Type": "PCS"
+        }
+    ],
+    "Fault 2: AC Voltage Imbalance": [
+        {
+            "Measurement Point Number": "44350",
+            "type": "Telesignaling",
+            "Device Type": "PCS"
+        }
+    ],
+    "Fault 2: Bms Comm Abnormal": [
+        {
+            "Measurement Point Number": "44351",
+            "type": "Telesignaling",
+            "Device Type": "PCS"
+        }
+    ],
+    "Fault 2: Inverter Open Loop Self-Check": [
+        {
+            "Measurement Point Number": "44353",
+            "type": "Telesignaling",
+            "Device Type": "PCS"
+        }
+    ],
+    "Fault 2: Bus Voltage Imbalance": [
+        {
+            "Measurement Point Number": "44354",
+            "type": "Telesignaling",
+            "Device Type": "PCS"
+        }
+    ],
+    "Fault 2: Carrier Synchronization": [
+        {
+            "Measurement Point Number": "44355",
+            "type": "Telesignaling",
+            "Device Type": "PCS"
+        }
+    ],
+    "Fault 1: AC Over Frequency": [
+        {
+            "Measurement Point Number": "44376",
+            "type": "Telesignaling",
+            "Device Type": "PCS"
+        }
+    ],
+    "Fault 1: AC Under Frequency": [
+        {
+            "Measurement Point Number": "44377",
+            "type": "Telesignaling",
+            "Device Type": "PCS"
+        }
+    ],
+    "Alarm 1: Low Insulation Impedance": [
+        {
+            "Measurement Point Number": "44647",
+            "type": "Telesignaling",
+            "Device Type": "PCS"
+        }
+    ],
+    "Fault 1: Grid Under Voltage": [
+        {
+            "Measurement Point Number": "44786",
+            "type": "Telesignaling",
+            "Device Type": "PCS"
+        }
+    ],
+    "Fault 1: Grid Over Voltage": [
+        {
+            "Measurement Point Number": "44787",
+            "type": "Telesignaling",
+            "Device Type": "PCS"
+        }
+    ],
+    "Fault 2: Abnormal Battery Connection": [
+        {
+            "Measurement Point Number": "44790",
+            "type": "Telesignaling",
+            "Device Type": "PCS"
+        }
+    ],
+    "Fault 2: Bms And Battery 1": [
+        {
+            "Measurement Point Number": "44909",
+            "type": "Telesignaling",
+            "Device Type": "PCS"
+        }
+    ],
+    "Fault 2: BMS And Battery 2": [
+        {
+            "Measurement Point Number": "44910",
+            "type": "Telesignaling",
+            "Device Type": "PCS"
+        }
+    ],
+    "Fault 1: Module Temperature Is Too High": [
+        {
+            "Measurement Point Number": "44932",
+            "type": "Telesignaling",
+            "Device Type": "PCS"
+        }
+    ],
+    "Fault 2: AC SPD": [
+        {
+            "Measurement Point Number": "44943",
+            "type": "Telesignaling",
+            "Device Type": "PCS"
+        }
+    ],
+    "Fault 2: AC Current Imbalance": [
+        {
+            "Measurement Point Number": "44947",
+            "type": "Telesignaling",
+            "Device Type": "PCS"
+        }
+    ],
+    "Fault 2: DC SPD": [
+        {
+            "Measurement Point Number": "44949",
+            "type": "Telesignaling",
+            "Device Type": "PCS"
+        }
+    ],
+    "Fault 1: Contactor Fault": [
+        {
+            "Measurement Point Number": "44994",
+            "type": "Telesignaling",
+            "Device Type": "PCS"
+        }
+    ],
+    "Fault 1: Grid Power Outage": [
+        {
+            "Measurement Point Number": "44995",
+            "type": "Telesignaling",
+            "Device Type": "PCS"
+        }
+    ],
+    "Fault 1: 10 Minutes Grid Overvoltage": [
+        {
+            "Measurement Point Number": "44996",
+            "type": "Telesignaling",
+            "Device Type": "PCS"
+        }
+    ],
+    "Alarm 1: DC Contactor Abnormal": [
+        {
+            "Measurement Point Number": "44999",
+            "type": "Telesignaling",
+            "Device Type": "PCS"
+        }
+    ],
+    "Fault 2: AC Voltage Harmonic Abnormal": [
+        {
+            "Measurement Point Number": "160057",
+            "type": "Telesignaling",
+            "Device Type": "PCS"
+        }
+    ],
+    "Fault 2: N-Wire Current Sampling Channel Failure": [
+        {
+            "Measurement Point Number": "201305",
+            "type": "Telesignaling",
+            "Device Type": "PCS"
+        }
+    ],
+    "Fault 2: AC Incoming Line Phase Sequence Error": [
+        {
+            "Measurement Point Number": "201306",
+            "type": "Telesignaling",
+            "Device Type": "PCS"
+        }
+    ],
+    "Alarm 1: Voltage Detection Before On-Grid Connection Is Not Met": [
+        {
+            "Measurement Point Number": "201307",
+            "type": "Telesignaling",
+            "Device Type": "PCS"
+        }
+    ],
+    "Fault 2: Drain Valve": [
+        {
+            "Measurement Point Number": "204201",
+            "type": "Telesignaling",
+            "Device Type": "PCS"
+        }
+    ],
+    "Fault 2: Mismatched Module Version": [
+        {
+            "Measurement Point Number": "204202",
+            "type": "Telesignaling",
+            "Device Type": "PCS"
+        }
+    ],
+    "Fault 2: Communication Between Arm And Dsp": [
+        {
+            "Measurement Point Number": "204203",
+            "type": "Telesignaling",
+            "Device Type": "PCS"
+        }
+    ],
+    "Max SOC": [
+        {
+            "Measurement Point Number": "49031",
+            "type": "Telemetry",
+            "Device Type": "LC"
+        }
+    ],
+    "Min SOC": [
+        {
+            "Measurement Point Number": "49032",
+            "type": "Telemetry",
+            "Device Type": "LC"
+        }
+    ],
+    "System SOC": [
+        {
+            "Measurement Point Number": "49033",
+            "type": "Telemetry",
+            "Device Type": "LC"
+        }
+    ],
+    "Max SOH": [
+        {
+            "Measurement Point Number": "49034",
+            "type": "Telemetry",
+            "Device Type": "LC"
+        }
+    ],
+    "Min SOH": [
+        {
+            "Measurement Point Number": "49035",
+            "type": "Telemetry",
+            "Device Type": "LC"
+        }
+    ],
+    "System SOH": [
+        {
+            "Measurement Point Number": "49036",
+            "type": "Telemetry",
+            "Device Type": "LC"
+        }
+    ],
+    "Service SOC": [
+        {
+            "Measurement Point Number": "49104",
+            "type": "Telemetry",
+            "Device Type": "LC"
+        }
+    ],
+    "Service Available Charging Power": [
+        {
+            "Measurement Point Number": "49004",
+            "type": "Telemetry",
+            "Device Type": "LC"
+        }
+    ],
+    "Service Available Discharging Power": [
+        {
+            "Measurement Point Number": "49005",
+            "type": "Telemetry",
+            "Device Type": "LC"
+        }
+    ]
+}

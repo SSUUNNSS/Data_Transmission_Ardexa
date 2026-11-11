@@ -1,1 +1,0 @@
-# Data_Transmission_Ardexa

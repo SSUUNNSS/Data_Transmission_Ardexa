@@ -161,383 +161,703 @@
       "messages_failed": 0,
       "messages_skipped": 0
     },
-    "normal/2026-10-02/sala_261002121011.parquet": {
+    "normal/2026-09-23/2026-09-23.parquet": {
       "status": "completed",
-      "completed_at": "2026-10-02T12:25:51.020501+00:00",
+      "completed_at": "2026-09-23T13:09:22.328443+00:00",
       "send_mode": "normal",
-      "records_read": 7721,
-      "messages_built": 4195,
-      "messages_published": 4195,
+      "records_read": 0,
+      "messages_built": 0,
+      "messages_published": 0,
       "messages_failed": 0,
       "messages_skipped": 0
     },
-    "normal/2026-10-01/sala_261001014007.parquet": {
+    "normal/2026-09-23/sala_260922221007.parquet": {
       "status": "completed",
-      "completed_at": "2026-10-02T12:59:48.857847+00:00",
+      "completed_at": "2026-09-23T13:11:53.112558+00:00",
       "send_mode": "normal",
-      "records_read": 7369,
-      "messages_built": 4004,
-      "messages_published": 4004,
+      "records_read": 6409,
+      "messages_built": 3713,
+      "messages_published": 3713,
       "messages_failed": 0,
       "messages_skipped": 0
     },
-    "normal/2026-10-01/sala_261001015507.parquet": {
+    "normal/2026-09-23/sala_260922222506.parquet": {
       "status": "completed",
-      "completed_at": "2026-10-02T13:00:44.821365+00:00",
+      "completed_at": "2026-09-23T13:12:43.440597+00:00",
       "send_mode": "normal",
-      "records_read": 6760,
-      "messages_built": 3774,
-      "messages_published": 3774,
+      "records_read": 7118,
+      "messages_built": 4207,
+      "messages_published": 4207,
       "messages_failed": 0,
       "messages_skipped": 0
     },
-    "normal/2026-10-01/sala_261001021013.parquet": {
+    "normal/2026-09-23/sala_260922224007.parquet": {
       "status": "completed",
-      "completed_at": "2026-10-02T13:01:41.706864+00:00",
+      "completed_at": "2026-09-23T13:13:33.087371+00:00",
       "send_mode": "normal",
-      "records_read": 6634,
+      "records_read": 6951,
+      "messages_built": 4172,
+      "messages_published": 4172,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-09-23/sala_260922225507.parquet": {
+      "status": "completed",
+      "completed_at": "2026-09-23T13:14:22.459522+00:00",
+      "send_mode": "normal",
+      "records_read": 7118,
+      "messages_built": 4037,
+      "messages_published": 4037,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-09-23/sala_260922231008.parquet": {
+      "status": "completed",
+      "completed_at": "2026-09-23T13:15:11.817929+00:00",
+      "send_mode": "normal",
+      "records_read": 6805,
+      "messages_built": 4162,
+      "messages_published": 4162,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-09-23/sala_260922232505.parquet": {
+      "status": "completed",
+      "completed_at": "2026-09-23T13:15:59.747622+00:00",
+      "send_mode": "normal",
+      "records_read": 6511,
       "messages_built": 3886,
       "messages_published": 3886,
       "messages_failed": 0,
       "messages_skipped": 0
     },
-    "normal/2026-10-01/sala_261001022505.parquet": {
+    "normal/2026-09-23/sala_260922234006.parquet": {
       "status": "completed",
-      "completed_at": "2026-10-02T13:02:36.106928+00:00",
+      "completed_at": "2026-09-23T13:16:47.456466+00:00",
       "send_mode": "normal",
-      "records_read": 6345,
-      "messages_built": 3500,
-      "messages_published": 3500,
+      "records_read": 6490,
+      "messages_built": 3932,
+      "messages_published": 3932,
       "messages_failed": 0,
       "messages_skipped": 0
     },
-    "normal/2026-10-01/sala_261001024007.parquet": {
+    "normal/2026-09-23/sala_260922235507.parquet": {
       "status": "completed",
-      "completed_at": "2026-10-02T13:03:27.954569+00:00",
+      "completed_at": "2026-09-23T13:17:35.114581+00:00",
       "send_mode": "normal",
-      "records_read": 6416,
-      "messages_built": 3536,
-      "messages_published": 3536,
+      "records_read": 6433,
+      "messages_built": 3731,
+      "messages_published": 3731,
       "messages_failed": 0,
       "messages_skipped": 0
     },
-    "normal/2026-10-01/sala_261001025506.parquet": {
+    "normal/2026-09-23/sala_260923001008.parquet": {
       "status": "completed",
-      "completed_at": "2026-10-02T13:04:40.291691+00:00",
+      "completed_at": "2026-09-23T13:18:23.466415+00:00",
       "send_mode": "normal",
-      "records_read": 7480,
-      "messages_built": 4232,
-      "messages_published": 4232,
+      "records_read": 6410,
+      "messages_built": 3846,
+      "messages_published": 3846,
       "messages_failed": 0,
       "messages_skipped": 0
     },
-    "normal/2026-10-01/sala_261001031018.parquet": {
+    "normal/2026-09-23/sala_260923002506.parquet": {
       "status": "completed",
-      "completed_at": "2026-10-02T13:05:43.381423+00:00",
+      "completed_at": "2026-09-23T13:19:11.011010+00:00",
       "send_mode": "normal",
-      "records_read": 7649,
-      "messages_built": 4316,
-      "messages_published": 4316,
+      "records_read": 6420,
+      "messages_built": 3862,
+      "messages_published": 3862,
       "messages_failed": 0,
       "messages_skipped": 0
     },
-    "normal/2026-10-01/sala_261001032505.parquet": {
+    "normal/2026-09-24/sala_260923221008.parquet": {
       "status": "completed",
-      "completed_at": "2026-10-02T13:06:40.423030+00:00",
+      "completed_at": "2026-09-24T09:07:53.278327+00:00",
       "send_mode": "normal",
-      "records_read": 7566,
-      "messages_built": 4082,
-      "messages_published": 4082,
+      "records_read": 6573,
+      "messages_built": 3674,
+      "messages_published": 3674,
       "messages_failed": 0,
       "messages_skipped": 0
     },
-    "normal/2026-10-01/sala_261001034007.parquet": {
+    "normal/2026-09-28/sala_260927221039.parquet": {
       "status": "completed",
-      "completed_at": "2026-10-02T13:07:43.468360+00:00",
+      "completed_at": "2026-09-28T14:03:39.144102+00:00",
       "send_mode": "normal",
-      "records_read": 7702,
-      "messages_built": 4311,
-      "messages_published": 4311,
+      "records_read": 7173,
+      "messages_built": 4084,
+      "messages_published": 4084,
       "messages_failed": 0,
       "messages_skipped": 0
     },
-    "normal/2026-10-02/sala_261002132505.parquet": {
+    "normal/2026-09-28/sala_260927222506.parquet": {
       "status": "completed",
-      "completed_at": "2026-10-02T13:28:04.508673+00:00",
+      "completed_at": "2026-09-28T14:04:36.956986+00:00",
       "send_mode": "normal",
-      "records_read": 7927,
+      "records_read": 7615,
+      "messages_built": 4040,
+      "messages_published": 4040,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-09-28/sala_260927224008.parquet": {
+      "status": "completed",
+      "completed_at": "2026-09-28T14:05:36.884365+00:00",
+      "send_mode": "normal",
+      "records_read": 7621,
+      "messages_built": 4089,
+      "messages_published": 4089,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-09-28/sala_260927225508.parquet": {
+      "status": "completed",
+      "completed_at": "2026-09-28T14:06:33.027515+00:00",
+      "send_mode": "normal",
+      "records_read": 7420,
+      "messages_built": 3955,
+      "messages_published": 3955,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-09-28/sala_260927231013.parquet": {
+      "status": "completed",
+      "completed_at": "2026-09-28T14:07:32.248533+00:00",
+      "send_mode": "normal",
+      "records_read": 7663,
+      "messages_built": 4299,
+      "messages_published": 4299,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-09-28/sala_260927232506.parquet": {
+      "status": "completed",
+      "completed_at": "2026-09-28T14:08:30.131070+00:00",
+      "send_mode": "normal",
+      "records_read": 7560,
+      "messages_built": 4132,
+      "messages_published": 4132,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-02/2026-10-02.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-02T10:41:10.650147+00:00",
+      "send_mode": "normal",
+      "records_read": 0,
+      "messages_built": 0,
+      "messages_published": 0,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-02/sala_261001221013.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-02T10:42:45.462164+00:00",
+      "send_mode": "normal",
+      "records_read": 7484,
+      "messages_built": 4295,
+      "messages_published": 4295,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-02/sala_261001222506.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-02T10:43:53.157791+00:00",
+      "send_mode": "normal",
+      "records_read": 6980,
+      "messages_built": 3930,
+      "messages_published": 3930,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-02/sala_261001224007.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-02T10:45:07.761369+00:00",
+      "send_mode": "normal",
+      "records_read": 7058,
+      "messages_built": 4062,
+      "messages_published": 4062,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-02/sala_261001225508.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-02T10:46:04.991978+00:00",
+      "send_mode": "normal",
+      "records_read": 7452,
+      "messages_built": 4030,
+      "messages_published": 4030,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-02/sala_261001231009.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-02T10:47:04.410296+00:00",
+      "send_mode": "normal",
+      "records_read": 7462,
+      "messages_built": 4136,
+      "messages_published": 4136,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-02/sala_261001232506.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-02T10:48:27.737427+00:00",
+      "send_mode": "normal",
+      "records_read": 7028,
+      "messages_built": 4059,
+      "messages_published": 4059,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-02/sala_261001234007.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-02T10:49:26.588732+00:00",
+      "send_mode": "normal",
+      "records_read": 7580,
+      "messages_built": 4080,
+      "messages_published": 4080,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-02/sala_261001235507.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-02T10:50:26.010207+00:00",
+      "send_mode": "normal",
+      "records_read": 7624,
+      "messages_built": 4160,
+      "messages_published": 4160,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-02/sala_261002001016.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-02T10:51:26.991169+00:00",
+      "send_mode": "normal",
+      "records_read": 7857,
+      "messages_built": 4134,
+      "messages_published": 4134,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-02/sala_261002002506.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-02T10:52:27.616992+00:00",
+      "send_mode": "normal",
+      "records_read": 7804,
+      "messages_built": 4133,
+      "messages_published": 4133,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-02/sala_261002004007.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-02T10:53:30.480741+00:00",
+      "send_mode": "normal",
+      "records_read": 7792,
+      "messages_built": 4321,
+      "messages_published": 4321,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-02/sala_261002005507.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-02T10:54:27.378359+00:00",
+      "send_mode": "normal",
+      "records_read": 7624,
+      "messages_built": 3957,
+      "messages_published": 3957,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-02/sala_261002011008.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-02T10:55:23.178657+00:00",
+      "send_mode": "normal",
+      "records_read": 7858,
+      "messages_built": 3980,
+      "messages_published": 3980,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-02/sala_261002012506.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-02T10:56:21.719091+00:00",
+      "send_mode": "normal",
+      "records_read": 7599,
+      "messages_built": 4064,
+      "messages_published": 4064,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-02/sala_261002014007.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-02T10:57:16.179112+00:00",
+      "send_mode": "normal",
+      "records_read": 7477,
+      "messages_built": 4141,
+      "messages_published": 4141,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-02/sala_261002015507.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-02T10:58:14.687683+00:00",
+      "send_mode": "normal",
+      "records_read": 7544,
+      "messages_built": 4161,
+      "messages_published": 4161,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-02/sala_261002021008.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-02T10:59:11.492478+00:00",
+      "send_mode": "normal",
+      "records_read": 7459,
+      "messages_built": 3835,
+      "messages_published": 3835,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-02/sala_261002022505.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-02T11:00:07.984431+00:00",
+      "send_mode": "normal",
+      "records_read": 7265,
+      "messages_built": 3865,
+      "messages_published": 3865,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-02/sala_261002024006.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-02T11:01:06.473571+00:00",
+      "send_mode": "normal",
+      "records_read": 7168,
+      "messages_built": 3895,
+      "messages_published": 3895,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-02/sala_261002025506.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-02T11:01:58.393301+00:00",
+      "send_mode": "normal",
+      "records_read": 7123,
+      "messages_built": 3867,
+      "messages_published": 3867,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-02/sala_261002031016.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-02T11:02:49.505087+00:00",
+      "send_mode": "normal",
+      "records_read": 6985,
+      "messages_built": 4000,
+      "messages_published": 4000,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-02/sala_261002032505.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-02T11:03:41.041403+00:00",
+      "send_mode": "normal",
+      "records_read": 7385,
+      "messages_built": 4104,
+      "messages_published": 4104,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-02/sala_261002034007.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-02T11:04:36.791120+00:00",
+      "send_mode": "normal",
+      "records_read": 7468,
+      "messages_built": 4224,
+      "messages_published": 4224,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-02/sala_261002035507.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-02T11:05:27.524791+00:00",
+      "send_mode": "normal",
+      "records_read": 6895,
+      "messages_built": 3757,
+      "messages_published": 3757,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-02/sala_261002041013.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-02T11:06:19.630086+00:00",
+      "send_mode": "normal",
+      "records_read": 7016,
+      "messages_built": 4011,
+      "messages_published": 4011,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-02/sala_261002042505.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-02T11:07:12.642352+00:00",
+      "send_mode": "normal",
+      "records_read": 6805,
+      "messages_built": 3930,
+      "messages_published": 3930,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-02/sala_261002044007.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-02T11:08:07.187120+00:00",
+      "send_mode": "normal",
+      "records_read": 7126,
+      "messages_built": 4064,
+      "messages_published": 4064,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-02/sala_261002045507.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-02T11:09:03.887592+00:00",
+      "send_mode": "normal",
+      "records_read": 7544,
+      "messages_built": 4214,
+      "messages_published": 4214,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-02/sala_261002051009.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-02T11:09:57.899230+00:00",
+      "send_mode": "normal",
+      "records_read": 7569,
+      "messages_built": 4280,
+      "messages_published": 4280,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-02/sala_261002052505.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-02T11:10:52.881316+00:00",
+      "send_mode": "normal",
+      "records_read": 7567,
+      "messages_built": 4139,
+      "messages_published": 4139,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-02/sala_261002054006.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-02T11:11:47.012756+00:00",
+      "send_mode": "normal",
+      "records_read": 7827,
+      "messages_built": 4312,
+      "messages_published": 4312,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-02/sala_261002055506.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-02T11:12:39.969195+00:00",
+      "send_mode": "normal",
+      "records_read": 7714,
+      "messages_built": 4127,
+      "messages_published": 4127,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-02/sala_261002061009.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-02T11:13:34.714169+00:00",
+      "send_mode": "normal",
+      "records_read": 7628,
+      "messages_built": 4176,
+      "messages_published": 4176,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-02/sala_261002062506.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-02T11:14:26.429122+00:00",
+      "send_mode": "normal",
+      "records_read": 7767,
+      "messages_built": 4039,
+      "messages_published": 4039,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-02/sala_261002064006.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-02T11:15:20.606290+00:00",
+      "send_mode": "normal",
+      "records_read": 7731,
+      "messages_built": 4145,
+      "messages_published": 4145,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-02/sala_261002065507.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-02T11:16:17.371751+00:00",
+      "send_mode": "normal",
+      "records_read": 7681,
+      "messages_built": 4282,
+      "messages_published": 4282,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-02/sala_261002071013.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-02T11:17:12.988893+00:00",
+      "send_mode": "normal",
+      "records_read": 7523,
+      "messages_built": 4142,
+      "messages_published": 4142,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-02/sala_261002072506.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-02T11:18:07.447939+00:00",
+      "send_mode": "normal",
+      "records_read": 7742,
+      "messages_built": 3981,
+      "messages_published": 3981,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-02/sala_261002074007.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-02T11:19:06.511949+00:00",
+      "send_mode": "normal",
+      "records_read": 7866,
+      "messages_built": 4230,
+      "messages_published": 4230,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-02/sala_261002075507.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-02T11:19:55.987364+00:00",
+      "send_mode": "normal",
+      "records_read": 7618,
+      "messages_built": 3912,
+      "messages_published": 3912,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-02/sala_261002081013.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-02T11:20:53.938239+00:00",
+      "send_mode": "normal",
+      "records_read": 7676,
+      "messages_built": 4242,
+      "messages_published": 4242,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-02/sala_261002082506.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-02T11:21:48.050629+00:00",
+      "send_mode": "normal",
+      "records_read": 7492,
+      "messages_built": 4050,
+      "messages_published": 4050,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-02/sala_261002084007.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-02T11:22:42.245690+00:00",
+      "send_mode": "normal",
+      "records_read": 7611,
+      "messages_built": 4146,
+      "messages_published": 4146,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-02/sala_261002085507.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-02T11:23:35.471386+00:00",
+      "send_mode": "normal",
+      "records_read": 7639,
+      "messages_built": 4075,
+      "messages_published": 4075,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-02/sala_261002091009.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-02T11:24:28.756589+00:00",
+      "send_mode": "normal",
+      "records_read": 7646,
+      "messages_built": 4157,
+      "messages_published": 4157,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-02/sala_261002092506.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-02T11:25:26.210206+00:00",
+      "send_mode": "normal",
+      "records_read": 7755,
+      "messages_built": 4251,
+      "messages_published": 4251,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-02/sala_261002094007.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-02T11:26:22.221788+00:00",
+      "send_mode": "normal",
+      "records_read": 7852,
       "messages_built": 4158,
       "messages_published": 4158,
       "messages_failed": 0,
       "messages_skipped": 0
     },
-    "normal/2026-10-02/sala_261002134006.parquet": {
+    "normal/2026-10-02/sala_261002095508.parquet": {
       "status": "completed",
-      "completed_at": "2026-10-02T13:43:05.833925+00:00",
+      "completed_at": "2026-10-02T11:27:14.341828+00:00",
       "send_mode": "normal",
-      "records_read": 7923,
-      "messages_built": 4195,
-      "messages_published": 4195,
+      "records_read": 7609,
+      "messages_built": 4151,
+      "messages_published": 4151,
       "messages_failed": 0,
       "messages_skipped": 0
     },
-    "normal/2026-10-02/sala_261002135507.parquet": {
+    "normal/2026-10-02/sala_261002101013.parquet": {
       "status": "completed",
-      "completed_at": "2026-10-02T13:59:44.963988+00:00",
+      "completed_at": "2026-10-02T11:28:08.842899+00:00",
       "send_mode": "normal",
-      "records_read": 7888,
-      "messages_built": 4246,
-      "messages_published": 4246,
+      "records_read": 7908,
+      "messages_built": 4295,
+      "messages_published": 4295,
       "messages_failed": 0,
       "messages_skipped": 0
     },
-    "normal/2026-10-05/sala_261005082506.parquet": {
+    "normal/2026-10-02/sala_261002102506.parquet": {
       "status": "completed",
-      "completed_at": "2026-10-05T09:09:28.130428+00:00",
+      "completed_at": "2026-10-02T11:29:00.911914+00:00",
       "send_mode": "normal",
-      "records_read": 6200,
-      "messages_built": 3808,
-      "messages_published": 3808,
+      "records_read": 7692,
+      "messages_built": 4157,
+      "messages_published": 4157,
       "messages_failed": 0,
       "messages_skipped": 0
     },
-    "normal/2026-10-05/sala_261005084007.parquet": {
+    "normal/2026-10-02/sala_261002104007.parquet": {
       "status": "completed",
-      "completed_at": "2026-10-05T09:10:40.008996+00:00",
+      "completed_at": "2026-10-02T11:29:53.221175+00:00",
       "send_mode": "normal",
-      "records_read": 6472,
-      "messages_built": 4092,
-      "messages_published": 4092,
-      "messages_failed": 0,
-      "messages_skipped": 0
-    },
-    "normal/2026-10-05/sala_261005085507.parquet": {
-      "status": "completed",
-      "completed_at": "2026-10-05T09:11:47.224973+00:00",
-      "send_mode": "normal",
-      "records_read": 6808,
-      "messages_built": 4197,
-      "messages_published": 4197,
-      "messages_failed": 0,
-      "messages_skipped": 0
-    },
-    "normal/2026-10-05/sala_261005091013.parquet": {
-      "status": "completed",
-      "completed_at": "2026-10-05T09:13:36.919692+00:00",
-      "send_mode": "normal",
-      "records_read": 6291,
-      "messages_built": 3708,
-      "messages_published": 3708,
-      "messages_failed": 0,
-      "messages_skipped": 0
-    },
-    "normal/2026-10-05/sala_261005092506.parquet": {
-      "status": "completed",
-      "completed_at": "2026-10-05T09:28:36.601035+00:00",
-      "send_mode": "normal",
-      "records_read": 5550,
-      "messages_built": 3206,
-      "messages_published": 3206,
-      "messages_failed": 0,
-      "messages_skipped": 0
-    },
-    "normal/2026-10-05/sala_261005094007.parquet": {
-      "status": "completed",
-      "completed_at": "2026-10-05T09:43:35.132101+00:00",
-      "send_mode": "normal",
-      "records_read": 5523,
-      "messages_built": 3117,
-      "messages_published": 3117,
-      "messages_failed": 0,
-      "messages_skipped": 0
-    },
-    "normal/2026-10-05/sala_261005095508.parquet": {
-      "status": "completed",
-      "completed_at": "2026-10-05T09:58:38.050341+00:00",
-      "send_mode": "normal",
-      "records_read": 5460,
-      "messages_built": 3121,
-      "messages_published": 3121,
-      "messages_failed": 0,
-      "messages_skipped": 0
-    },
-    "normal/2026-10-05/sala_261005101015.parquet": {
-      "status": "completed",
-      "completed_at": "2026-10-05T10:13:32.407706+00:00",
-      "send_mode": "normal",
-      "records_read": 5615,
-      "messages_built": 3175,
-      "messages_published": 3175,
-      "messages_failed": 0,
-      "messages_skipped": 0
-    },
-    "normal/2026-10-05/sala_261005102506.parquet": {
-      "status": "completed",
-      "completed_at": "2026-10-05T10:28:29.000081+00:00",
-      "send_mode": "normal",
-      "records_read": 5618,
-      "messages_built": 3236,
-      "messages_published": 3236,
-      "messages_failed": 0,
-      "messages_skipped": 0
-    },
-    "normal/2026-10-05/sala_261005104007.parquet": {
-      "status": "completed",
-      "completed_at": "2026-10-05T10:43:28.068180+00:00",
-      "send_mode": "normal",
-      "records_read": 5572,
-      "messages_built": 3156,
-      "messages_published": 3156,
-      "messages_failed": 0,
-      "messages_skipped": 0
-    },
-    "normal/2026-10-05/sala_261005105507.parquet": {
-      "status": "completed",
-      "completed_at": "2026-10-05T10:58:27.763676+00:00",
-      "send_mode": "normal",
-      "records_read": 5381,
-      "messages_built": 3088,
-      "messages_published": 3088,
-      "messages_failed": 0,
-      "messages_skipped": 0
-    },
-    "normal/2026-10-05/sala_261005111009.parquet": {
-      "status": "completed",
-      "completed_at": "2026-10-05T11:13:29.087275+00:00",
-      "send_mode": "normal",
-      "records_read": 5362,
-      "messages_built": 3031,
-      "messages_published": 3031,
-      "messages_failed": 0,
-      "messages_skipped": 0
-    },
-    "normal/2026-10-05/sala_261005112506.parquet": {
-      "status": "completed",
-      "completed_at": "2026-10-05T11:28:33.468532+00:00",
-      "send_mode": "normal",
-      "records_read": 5319,
-      "messages_built": 3058,
-      "messages_published": 3058,
-      "messages_failed": 0,
-      "messages_skipped": 0
-    },
-    "normal/2026-10-05/sala_261005114007.parquet": {
-      "status": "completed",
-      "completed_at": "2026-10-05T11:43:25.438037+00:00",
-      "send_mode": "normal",
-      "records_read": 4981,
-      "messages_built": 2907,
-      "messages_published": 2907,
-      "messages_failed": 0,
-      "messages_skipped": 0
-    },
-    "normal/2026-10-05/sala_261005115507.parquet": {
-      "status": "completed",
-      "completed_at": "2026-10-05T11:58:26.365402+00:00",
-      "send_mode": "normal",
-      "records_read": 4795,
-      "messages_built": 2890,
-      "messages_published": 2890,
-      "messages_failed": 0,
-      "messages_skipped": 0
-    },
-    "normal/2026-10-05/sala_261005121008.parquet": {
-      "status": "completed",
-      "completed_at": "2026-10-05T12:13:32.010508+00:00",
-      "send_mode": "normal",
-      "records_read": 5180,
-      "messages_built": 3170,
-      "messages_published": 3170,
-      "messages_failed": 0,
-      "messages_skipped": 0
-    },
-    "normal/2026-10-05/sala_261005122506.parquet": {
-      "status": "completed",
-      "completed_at": "2026-10-05T12:28:28.358525+00:00",
-      "send_mode": "normal",
-      "records_read": 5156,
-      "messages_built": 3143,
-      "messages_published": 3143,
-      "messages_failed": 0,
-      "messages_skipped": 0
-    },
-    "normal/2026-10-05/sala_261005124007.parquet": {
-      "status": "completed",
-      "completed_at": "2026-10-05T12:43:28.075182+00:00",
-      "send_mode": "normal",
-      "records_read": 5088,
-      "messages_built": 2985,
-      "messages_published": 2985,
-      "messages_failed": 0,
-      "messages_skipped": 0
-    },
-    "normal/2026-10-05/sala_261005125508.parquet": {
-      "status": "completed",
-      "completed_at": "2026-10-05T12:58:37.923706+00:00",
-      "send_mode": "normal",
-      "records_read": 5392,
-      "messages_built": 3131,
-      "messages_published": 3131,
-      "messages_failed": 0,
-      "messages_skipped": 0
-    },
-    "normal/2026-10-05/sala_261005131015.parquet": {
-      "status": "completed",
-      "completed_at": "2026-10-05T13:13:45.070630+00:00",
-      "send_mode": "normal",
-      "records_read": 6596,
-      "messages_built": 3822,
-      "messages_published": 3822,
-      "messages_failed": 0,
-      "messages_skipped": 0
-    },
-    "normal/2026-10-05/sala_261005132506.parquet": {
-      "status": "completed",
-      "completed_at": "2026-10-05T13:28:38.896666+00:00",
-      "send_mode": "normal",
-      "records_read": 6532,
-      "messages_built": 3889,
-      "messages_published": 3889,
-      "messages_failed": 0,
-      "messages_skipped": 0
-    },
-    "normal/2026-10-05/sala_261005134006.parquet": {
-      "status": "completed",
-      "completed_at": "2026-10-05T13:45:38.229900+00:00",
-      "send_mode": "normal",
-      "records_read": 6923,
-      "messages_built": 3943,
-      "messages_published": 3943,
-      "messages_failed": 0,
-      "messages_skipped": 0
-    },
-    "normal/2026-10-05/sala_261005135507.parquet": {
-      "status": "completed",
-      "completed_at": "2026-10-05T14:00:12.483392+00:00",
-      "send_mode": "normal",
-      "records_read": 7129,
-      "messages_built": 4096,
-      "messages_published": 4096,
-      "messages_failed": 0,
-      "messages_skipped": 0
-    },
-    "normal/2026-10-05/sala_261005142505.parquet": {
-      "status": "completed",
-      "completed_at": "2026-10-05T14:53:15.400323+00:00",
-      "send_mode": "normal",
-      "records_read": 6772,
-      "messages_built": 4049,
-      "messages_published": 4049,
-      "messages_failed": 0,
-      "messages_skipped": 0
-    },
-    "normal/2026-10-05/sala_261005144007.parquet": {
-      "status": "completed",
-      "completed_at": "2026-10-05T14:54:55.539162+00:00",
-      "send_mode": "normal",
-      "records_read": 6646,
-      "messages_built": 3807,
-      "messages_published": 3807,
+      "records_read": 7811,
+      "messages_built": 4088,
+      "messages_published": 4088,
       "messages_failed": 0,
       "messages_skipped": 0
     }
